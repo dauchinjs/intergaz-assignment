@@ -8,7 +8,7 @@
 
 ## General info
 
-In this project
+In this project you are able to see the movements of deliveries for a company. Deliveries contain addresses, routes, what product is beeing delivered for what price and in what stage the delivery is currently. You can see which clients had both deliveries (liquid and solid) to one address, overall delivery history, and inactive clients (those who haven't had a single liquid product delivery to an address).
 
 ## Technologies
 
