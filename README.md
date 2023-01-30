@@ -19,8 +19,8 @@ In this project you are able to see the movements of deliveries for a company. D
 
 ## Setup
 1. Clone this repository `git clone https://github.com/dauchinjs/intergaz-assignment.git`
-2. Install all dependencies: `composer install`
-3. Rename the `.env.example` file to `.env` and add your credentials
+2. Install all dependencies: `composer install` and `npm install`
+3. Create a database and rename the `.env.example` file to `.env` and add your credentials
 4. To get the databases, use command `php artisan migrate` in the terminal
 5. Run the frontend `npm run dev`
 6. To run the project use `php artisan serve` in terminal.
