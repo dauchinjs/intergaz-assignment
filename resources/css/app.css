@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.clients-container {
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.addresses-container {
+    width: 50%;
+    float: right;
+    text-align: center;
+    margin-top: 30px;
+}
