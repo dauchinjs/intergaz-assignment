@@ -10,6 +10,14 @@
 
 In this project you are able to see the movements of deliveries for a company. Deliveries contain addresses, routes, what product is beeing delivered for what price and in what stage the delivery is currently. You can see which clients had both deliveries (liquid and solid) to one address, overall delivery history, and inactive clients (those who haven't had a single liquid product delivery to an address).
 
+## Demonstration
+
+### Clients list and client deliveries
+![clients-list-deliveries](https://github.com/dauchinjs/intergaz-assignment/blob/main/demonstration/clients-deliveries.gif)
+
+### Delivery types, delivery history, inactive clients
+![types-history-inactive](https://github.com/dauchinjs/intergaz-assignment/blob/main/demonstration/delivery-reports.gif)
+
 ## Technologies
 
 * PHP version: 8.0
@@ -25,5 +33,3 @@ In this project you are able to see the movements of deliveries for a company. D
 5. Run the frontend `npm run dev`
 6. To run the project use `php artisan serve` in terminal.
 7. If you want to get random database instances, you can use command `php artisan db:seed`, this will fill the database with 100 random examples
-
-## Demonstration
